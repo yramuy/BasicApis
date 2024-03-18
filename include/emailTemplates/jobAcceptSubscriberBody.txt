@@ -1,0 +1,6 @@
+Dear %recipientFirstName%,
+
+ A Job (%ticketNo%:'%subject%') was accepted by %acceptedFullName%.  
+
+Thanks,
+Plant Maintenance Admin 

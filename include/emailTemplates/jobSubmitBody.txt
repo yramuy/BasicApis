@@ -1,0 +1,7 @@
+Dear %recipientFirstName%,
+
+  A Job (%ticketNo%:'%subject%') for the Equipment '%equipmentId%: %equipment%' (Functional Location: %functionalLoction%) is created.  
+
+Thanks,
+Plant Maintenance Admin 
+

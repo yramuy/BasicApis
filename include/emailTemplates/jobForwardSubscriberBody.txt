@@ -1,0 +1,7 @@
+Dear %recipientFirstName%,
+
+ A Job (%ticketNo%:'%subject%') was forwarded from %forwardFromFullName% to %forwardToFullName%.  
+
+Thanks,
+Plant Maintenance Admin 
+
